@@ -5,9 +5,9 @@
 
 ```bash
 
-git  clone  https://github.com/Nguyen[REDACTED]
+git  clone  https://github.com/nguyenphuoc2k9/Word_Correction
 
-cd  h[REDACTED]
+cd  Word_Correction
 
 ```
 
@@ -67,6 +67,6 @@ Once everything is ready, you can launch the application by running:
 
 ```bash
 
-chainlit  run  app.py
+streamlit  run  main.py
 
 ```
