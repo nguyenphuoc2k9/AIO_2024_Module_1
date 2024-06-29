@@ -70,3 +70,5 @@ Once everything is ready, you can launch the application by running:
 streamlit  run  main.py
 
 ```
+### How to use :
+Enter a word that need correction -> the program will automatically suggest the correct word. 
