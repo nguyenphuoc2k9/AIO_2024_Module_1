@@ -1,0 +1,21 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "window.zoomLevel": 2,
+    "editor.unicodeHighlight.allowedCharacters": {
+        "n": true
+    },
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8",
+        "editor.formatOnSave": true,
+        "files.autoSave": "afterDelay"
+    },
+    "sonarlint.connectedMode.connections.sonarcloud": [
+        {
+            "organizationKey": "phuocnguyen2k9",
+            "connectionId": "nguyen_phuoc_460"
+        }
+    ]
+}
